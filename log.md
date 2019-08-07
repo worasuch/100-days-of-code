@@ -5,7 +5,7 @@
 
 **Today's Progress**: Python OOP: Overloading, Equal_instance (__eq__)
 
-**Thoughts:** They are helpful for menipulate tha data in the easy way.
+**Thoughts:** They are helpful for manipulate the data in the easy way.
 
 **Link(s) to work** 
 [Python OOP](https://github.com/worasuch/LearnPython.git)
