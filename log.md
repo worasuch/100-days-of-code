@@ -7,9 +7,8 @@
 
 **Thoughts:** They are helpful for manipulate the data in the easy way.
 
-**Link(s) to work** 
-[Python OOP](https://github.com/worasuch/LearnPython.git)
-
+**Link(s) to work:** 
+[Code](https://github.com/worasuch/LearnPython.git)
 
 
 
@@ -17,7 +16,7 @@
 
 **Today's Progress**: Numpy array: create numpy array
 
-**Thoughts:** numpy array is useful to manage and faster when compare with list.
+**Thoughts:** Numpy array is useful to manage data and faster when compare with List.
 
-**Link(s) to work** 
+**Link(s) to work:** 
 [Code](https://github.com/worasuch/LearnPython/blob/master/Create%20array%20numpy.ipynb)
