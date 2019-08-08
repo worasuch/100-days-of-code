@@ -11,6 +11,8 @@
 [Python OOP](https://github.com/worasuch/LearnPython.git)
 
 
+
+
 ### Day 2: Aug 8, 2019
 
 **Today's Progress**: Numpy array: create numpy array
