@@ -20,3 +20,14 @@
 
 **Link(s) to work:** 
 [Code](https://github.com/worasuch/LearnPython/blob/master/Create%20array%20numpy.ipynb)
+
+
+
+### Day 3: Aug 9, 2019
+
+**Today's Progress**: Numpy array: numpy_broadcasting
+
+**Thoughts:** Numpy broadcasting help for calculating the array.
+
+**Link(s) to work:** 
+[Code](https://github.com/worasuch/LearnPython/blob/master/numpy_broadcasting.ipynb)
