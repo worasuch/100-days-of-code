@@ -31,3 +31,14 @@
 
 **Link(s) to work:** 
 [Code](https://github.com/worasuch/LearnPython/blob/master/numpy_broadcasting.ipynb)
+
+
+
+### Day 4: Aug 10, 2019
+
+**Today's Progress**: Numpy array: reshape, repeat, tile, stack, spilt and index slice.
+
+**Thoughts:** These function is importent to help manipulate array.
+
+**Link(s) to work:** 
+[Code](https://github.com/worasuch/LearnPython.git)
