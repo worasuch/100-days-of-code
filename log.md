@@ -42,3 +42,14 @@
 
 **Link(s) to work:** 
 [Code](https://github.com/worasuch/LearnPython.git)
+
+
+
+### Day 5: Aug 11, 2019
+
+**Today's Progress**: Numpy array: boolean indexing, iterate and linspace.
+
+**Thoughts:** These function is importent to help manipulate array.
+
+**Link(s) to work:** 
+[Code](https://github.com/worasuch/LearnPython.git)
