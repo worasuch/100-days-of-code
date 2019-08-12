@@ -53,3 +53,14 @@
 
 **Link(s) to work:** 
 [Code](https://github.com/worasuch/LearnPython.git)
+
+
+
+### Day 6: Aug 12, 2019
+
+**Today's Progress**: Numpy array: savetxt, loadtex and load string data.
+
+**Thoughts:** These function are useful to manage more data from outsit.
+
+**Link(s) to work:** 
+[Code](https://github.com/worasuch/LearnPython.git)
