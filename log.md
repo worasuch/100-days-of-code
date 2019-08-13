@@ -64,3 +64,14 @@
 
 **Link(s) to work:** 
 [Code](https://github.com/worasuch/LearnPython.git)
+
+
+
+### Day 7: Aug 13, 2019
+
+**Today's Progress**: Numpy array: matrix, random distribution, random split, shuffle and estimated pi with monte carlo.
+
+**Thoughts:** These function is importent to help manipulate array.
+
+**Link(s) to work:** 
+[Code](https://github.com/worasuch/LearnPython.git)
