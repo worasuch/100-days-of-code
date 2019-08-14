@@ -75,3 +75,14 @@
 
 **Link(s) to work:** 
 [Code](https://github.com/worasuch/LearnPython.git)
+
+
+
+### Day 8: Aug 14, 2019
+
+**Today's Progress**: Python Robot: Extended kalman filter (EKF)
+
+**Thoughts:** The filter very help the robot to do localization
+
+**Link(s) to work:** 
+
