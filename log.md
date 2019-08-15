@@ -80,9 +80,19 @@
 
 ### Day 8: Aug 14, 2019
 
-**Today's Progress**: Python Robot: Extended kalman filter (EKF)
+**Today's Progress**: Python Robot: Extended kalman filter (EKF) (1)
 
-**Thoughts:** The filter very help the robot to do localization
+**Thoughts:** The filter very help the robot to do localization.
+
+**Link(s) to work:** 
+
+
+
+### Day 9: Aug 15, 2019
+
+**Today's Progress**: Python Robot: Extended kalman filter (EKF) (2)
+
+**Thoughts:** Learn more about matrix. 
 
 **Link(s) to work:** 
 
