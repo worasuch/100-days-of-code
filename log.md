@@ -96,3 +96,12 @@
 
 **Link(s) to work:** 
 
+
+
+### Day 10: Aug 16, 2019
+
+**Today's Progress**: Python Robot: Variance, Covariance and Correlation
+
+**Thoughts:** Learn more math by using python help. 
+
+**Link(s) to work:** 
