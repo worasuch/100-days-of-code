@@ -105,3 +105,13 @@
 **Thoughts:** Learn more math by using python help. 
 
 **Link(s) to work:** 
+
+
+
+### Day 11: Aug 17, 2019
+
+**Today's Progress**: Python Robot: multivariate gaussian distribution.
+
+**Thoughts:** Learn more math by using python help. 
+
+**Link(s) to work:** 
